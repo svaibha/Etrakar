@@ -1,0 +1,16 @@
+body{
+	width: 960px;
+	margin: 0
+	auto;}
+	
+form{
+	width: 300px;
+	 box-shadow:0 0 3px 0 rgba(0, 0, 0, 3.0)
+	float: right: 
+	margin: 10px;
+	text-align: center;
+}
+ h1{
+	color: grey;
+	width: 600px;
+}
